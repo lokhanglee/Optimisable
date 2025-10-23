@@ -76,7 +76,7 @@ debug_*.py
 *.xls
 *.pkl
 *.json
-*.txt
+
 
 # Backup or temp files
 *.bak
