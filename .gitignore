@@ -1,0 +1,84 @@
+# ===============================
+# Python / Streamlit / Gurobi App
+# ===============================
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+
+# Environment variables
+.env
+
+# Gurobi log and temporary files
+gurobi.log
+*.prm
+*.lp
+*.mps
+*.sol
+*.ilp
+*.log
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints
+
+# Streamlit generated cache
+.streamlit/
+.cache/
+logs/
+tmp/
+
+# ===============================
+# Visual Studio / VS Code
+# ===============================
+
+# VS settings
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.pyproj
+*.sln
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Other IDE metadata
+.idea/
+*.iml
+
+# ===============================
+# OS generated files
+# ===============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===============================
+# Project specific
+# ===============================
+
+# Ignore any local test or debug data
+test_*.py
+debug_*.py
+*.csv
+*.xlsx
+*.xls
+*.pkl
+*.json
+*.txt
+
+# Backup or temp files
+*.bak
+*.tmp
+~$*
